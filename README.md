@@ -6,7 +6,7 @@ Create your family tree and share it with your loved ones. View, add and edit in
 
 This app helps to create a family tree diagram easily and quickly. You can also add facts and photos of your family members. This app works offline.
 
-## Features
+## Features 
 
 - _Add/Edit/Delete facts_
 - _Add/Edit/Delete photos_
