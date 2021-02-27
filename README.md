@@ -1,4 +1,4 @@
-## Description
+## App Description
 
 <img src="1.png" width="50%" height="50%">
 
