@@ -10,6 +10,21 @@ This app helps to create a family tree diagram easily and quickly. You can also 
     <img src="1.png" width="50%" height="50%">
 </div>
 
+<div>
+    <p style="float: left;"><img src="1.png" width="50%" height="50%"></p>
+    <p>Create your family tree and share it with your loved ones. View, add and edit information about your family members.<br/>This app helps to create a family tree diagram easily and quickly. You can also add facts and photos of your family members. This app works offline.</p>
+</div>
+<div style="clear: left;">
+    <p style="float: left;"><img src="1.png" width="50%" height="50%"></p>
+    <p>Create your family tree and share it with your loved ones. View, add and edit information about your family members.<br/>This app helps to create a family tree diagram easily and quickly. You can also add facts and photos of your family members. This app works offline.</p>
+</div>
+
+## Features
+
+- Add/Edit/Delete facts
+- Add/Edit/Delete photos
+- Find person in the tree
+- Share the tree via social network
 
 ## Welcome to GitHub Pages 123
 
