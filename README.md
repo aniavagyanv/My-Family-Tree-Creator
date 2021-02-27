@@ -24,6 +24,7 @@ This app helps to create a family tree diagram easily and quickly. You can also 
 - Add/Edit/Delete facts
 - Add/Edit/Delete photos
 - Find person in the tree
+- Works offline
 - Share the tree via social network
 
 ## Welcome to GitHub Pages 123
